@@ -6,8 +6,8 @@
 
 *just a guy learning to code. occasionally making things.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-scar--09-181818?style=flat-square\&logo=github\&logoColor=white)](https://github.com/scar-09)
-[![Learning Python](https://img.shields.io/badge/currently_learning-Python-181818?style=flat-square\&logo=python\&logoColor=3776AB)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-scar--09-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/scar-09)
+[![Learning Python](https://img.shields.io/badge/currently_learning-Python-181818?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
 
 </div>
 
@@ -15,18 +15,18 @@
 
 ### `$ whoami`
 
-I'm learning to code, building random stuff, and slowly figuring out what I'm doing.
+Learning to code, building random stuff, slowly figuring things out.
 
-* `01` — Currently focusing on **Python**
-* `02` — Exploring **JavaScript** and web development
-* `03` — Experimenting with projects, tools, and questionable ideas
-* `04` — AI-assisted development is part of the process. no point pretending otherwise.
+* `01` — Mostly **Python** right now
+* `02` — Poking at **JavaScript** and web dev
+* `03` — Messing with projects, tools, and questionable ideas
+* `04` — Yeah, I use AI while coding. So does everyone else.
 
-Still learning. Still building. No grand origin story.
+Still learning. Still building. Nothing dramatic to report.
 
 ### `$ ls ./projects`
 
-A few things I've worked on.
+Stuff I've worked on.
 
 | Project       | What it does                                           |
 | :------------ | :----------------------------------------------------- |
@@ -34,21 +34,21 @@ A few things I've worked on.
 | **Study-Now** | A desktop focus timer for getting things done.         |
 | **STOFUS**    | A browser extension for avoiding distracting websites. |
 
-> Most projects start with an idea. The rest is figuring out how to make it work.
+> Most start with an idea. The rest is figuring out how to make it work.
 
 ### `$ cat ./currently_learning`
 
 **Main focus** <br>
-![Python](https://img.shields.io/badge/Python-learning-181818?style=flat-square\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-exploring-181818?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-learning-181818?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-exploring-181818?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**Also experimented with** <br>
-![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square\&logo=css3\&logoColor=1572B6)
-![Kotlin](https://img.shields.io/badge/Kotlin-181818?style=flat-square\&logo=kotlin\&logoColor=7F52FF)
-![Dart](https://img.shields.io/badge/Dart-181818?style=flat-square\&logo=dart\&logoColor=0175C2)
+**Also tried** <br>
+![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=1572B6)
+![Kotlin](https://img.shields.io/badge/Kotlin-181818?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/Dart-181818?style=flat-square&logo=dart&logoColor=0175C2)
 
-*Familiarity varies. Having used something doesn't mean I've mastered it.*
+*Used a thing ≠ mastered a thing.*
 
 ### `$ git status`
 
