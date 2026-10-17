@@ -6,11 +6,6 @@
 
 just a guy learning to code. occasionally making things.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-scar--09-161b22?style=flat-square\&logo=github\&logoColor=c9d1d9)](https://github.com/scar-09)
-[![Python](https://img.shields.io/badge/focus-Python-161b22?style=flat-square\&logo=python\&logoColor=7ee787)](https://www.python.org/)
-
 </div>
 
 ---
@@ -19,10 +14,10 @@ just a guy learning to code. occasionally making things.
 
 Learning to code, building random stuff, slowly figuring things out.
 
-* Mostly **Python** right now
-* Poking at **JavaScript** and web dev
-* Messing with projects, tools, and questionable ideas
-* Yeah, I use AI while coding.
+- Mostly **Python** right now
+- Poking at **JavaScript** and web dev
+- Messing with projects, tools, and questionable ideas
+- Yeah, I use AI while coding.
 
 Still learning. Still building. Nothing dramatic to report.
 
@@ -30,14 +25,33 @@ Still learning. Still building. Nothing dramatic to report.
 
 Stuff I've worked on.
 
-**01. Habiot**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Habiot**
+
 A habit tracker for building routines.
 
-**02. Study-Now**
+</td>
+<td width="50%" valign="top">
+
+**Study-Now**
+
 A desktop focus timer for getting things done.
 
-**03. STOFUS**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**STOFUS**
+
 A browser extension for avoiding distracting websites.
+
+</td>
+</tr>
+</table>
 
 <sub>Most start with an idea. The rest is figuring out how to make it work.</sub>
 
@@ -45,15 +59,15 @@ A browser extension for avoiding distracting websites.
 
 **Main focus**
 
-![Python](https://img.shields.io/badge/Python-learning-161b22?style=flat-square\&logo=python\&logoColor=7ee787)
-![JavaScript](https://img.shields.io/badge/JavaScript-exploring-161b22?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-learning-161b22?style=flat-square&logo=python&logoColor=7ee787)
+![JavaScript](https://img.shields.io/badge/JavaScript-exploring-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 **Also tried**
 
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square\&logo=css3\&logoColor=1572B6)
-![Kotlin](https://img.shields.io/badge/Kotlin-161b22?style=flat-square\&logo=kotlin\&logoColor=7F52FF)
-![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square\&logo=dart\&logoColor=0175C2)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+![Kotlin](https://img.shields.io/badge/Kotlin-161b22?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=0175C2)
 
 <sub>Used a thing ≠ mastered a thing.</sub>
 
