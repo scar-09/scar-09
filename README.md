@@ -12,7 +12,7 @@ just a guy learning to code. occasionally making things.
 
 ### `$ whoami`
 
-Learning to code, building random stuff, slowly figuring things out.
+Learning to code, building random stuff, slowly figuring it out.
 
 - Mostly **Python** right now
 - Poking at **JavaScript** and web dev
